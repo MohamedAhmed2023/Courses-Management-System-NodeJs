@@ -22,9 +22,3 @@ This project is a Node.js-based backend for Courses Management System. It allows
 - **CORS**: Middleware to enable Cross-Origin Resource Sharing.
 - **bcryptjs**: Library to hash and compare passwords.
 - **dotenv**: Loads environment variables from a `.env` file.
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/courses-backend.git
